@@ -1,0 +1,31 @@
+Part 2: Instantiation Provided
+
+1.	public Car()
+	new Car()
+
+2. 	public Car(string color, int wheels)
+	new Car("Red", 4)
+
+3. 	public Bus(int passengers)
+	new Bus(32)
+
+4. 	public HotDog(string topping1, string topping2)
+	new HotDog("Ketchup", "Mustard")
+
+5.	public Aroma(string description)
+	new Aroma("Bad")
+
+6.	public Behavior(boolean isBad)
+	new Behavior(true)
+
+7.  public Assignment(boolean isEasy)
+	new Assignment(false)
+
+8. 	public AstronomicalDistance(int minDistance, int maxDistance)
+	new AstronomicalDistance(10, 20)
+
+9.	public DateTime(int year, int month, int day)
+	new DateTime(2016, 07, 22)
+
+10. public Assignment(string statusMessage)
+	new Assignment("You are done! Go Home!")
